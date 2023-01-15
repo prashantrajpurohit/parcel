@@ -1,0 +1,19 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "food project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/prashantrajpurohit/food-app.git"
+  },
+  "author": "Prashant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantrajpurohit/food-app/issues"
+  },
+  "homepage": "https://github.com/prashantrajpurohit/food-app#readme"
+}
